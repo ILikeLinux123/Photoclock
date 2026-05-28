@@ -1,2 +1,2 @@
 # Photoclock
-A Clock face that allows you to upload as many images as you want! It will cycle randomly between images and you can click on the watch face to see different stats like active zone minutes, weather, steps, heartbeat, calories, and more! A quick tip though, whenever the screen is black that means that it is loading or you have no images on it yet. 
+Photoclock is a clock face for Fitbit Sense and Versa 3 that allows you to upload as many images as you want! It will cycle randomly between images and you can click on the watch face to see different stats like active zone minutes, weather, steps, heartbeat, calories, and more! A quick tip though, whenever the screen is black that means that it is loading or you have no images on it yet. 
